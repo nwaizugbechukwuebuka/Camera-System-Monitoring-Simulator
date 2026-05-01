@@ -108,7 +108,7 @@ graph TB
     G[Failure Simulation Thread] --> F
     G --> E
 
-    E --> H[/health Endpoint]
+    E --> H[GET /health]
 ```
 
 ---
