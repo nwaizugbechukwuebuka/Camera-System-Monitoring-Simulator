@@ -1,0 +1,5 @@
+system:
+  name: Camera System Deployment & Monitoring Simulator
+  environment: production
+  log_level: INFO
+  monitoring_interval: 2  # seconds

@@ -1,0 +1,5 @@
+network:
+  latency_ms: 50
+  packet_loss: 0.01
+  jitter_ms: 10
+  max_bandwidth_mbps: 100

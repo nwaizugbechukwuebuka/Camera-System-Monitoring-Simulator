@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pyyaml
+websockets
+httpx
+pytest
+loguru
+streamlit
+plotly

@@ -1,0 +1,9 @@
+cameras:
+  - id: cam01
+    location: Station 1
+    ip: 192.168.1.101
+    enabled: true
+  - id: cam02
+    location: Station 2
+    ip: 192.168.1.102
+    enabled: true
